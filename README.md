@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-AlejandroLopez-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alejandro-lopez-7a0068154/)](https://www.linkedin.com/in/alejandro-lopez-7a0068154/)
 [![Youtube Badge](https://img.shields.io/badge/-AlexMixVids-red?style=plastic-square&logo=youtube&logoColor=white&link=https://www.youtube.com/user/thecoolAlelopezm)](https://www.youtube.com/user/thecoolAlelopezm)
 <a href="https://portfolium.com/AlejandroLopez97"><img src="https://img.shields.io/badge/MyPortfolio-blueviolet.svg"/></a>
-<a href="https://1drv.ms/b/s!ApEeJO6L-j83lNZ0WtFeFSGwPklmOA?e=1SBEzl"><img src="https://img.shields.io/badge/MyResume-red.svg"/></a>
+<a href="https://github.com/Alejandro-HUB/Alejandro-HUB/blob/main/Resume.pdf"><img src="https://img.shields.io/badge/MyResume-red.svg"/></a>
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Alejandro-HUB)
 
 ## ABOUT ME 
