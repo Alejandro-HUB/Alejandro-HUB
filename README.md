@@ -11,10 +11,9 @@
 
 ## GIT Stats
 <img src="https://github-readme-stats.vercel.app/api?username=Alejandro-HUB&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alejandro-HUB&theme=radical"/>|
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandro-HUB&layout=radical)](https://github.com/Alejandro-HUB/Alejandro-HUB)
 |---|---|
 
-## Known Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandro-HUB&layout=compact)](https://github.com/Alejandro-HUB/Alejandro-HUB)
 
 
 <!--
