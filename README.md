@@ -1,4 +1,4 @@
-### Welcome to my HUB feel free to look around 👋 
+### Welcome, feel free to look around 👋 
 
 
 
