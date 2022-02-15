@@ -7,7 +7,7 @@ A creative, problem solving Software Engineering specialist that is able to reso
 - 🌱 I’m currently learning MongoDB
 - 👯 I’m looking to collaborate on DBO
 - 💬 Ask me about C++,C#,Python,Java
-- 📫 How to reach me: <a href="alejandrolopez.org">alejandrolopez.org</a>
+- 📫 How to reach me: <a href="https://alejandrolopez.org/">alejandrolopez.org</a>
 - ⚡ Fun fact: I am from Bogota, Colombia
 
 ## GIT Stats
