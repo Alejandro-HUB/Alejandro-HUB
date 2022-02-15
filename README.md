@@ -1,6 +1,6 @@
 ### Welcome, feel free to look around 👋 
 
-## ⚡ ABOUT ME ⚡
+## ABOUT ME ⚡
 - :computer: A creative, problem solving Software Engineering specialist that is able to resolve whatever technological issue presented. An individual with dedication and perspective that knows how to communicate to people, providing them with solutions and support.
 
 - 🔭 I’m currently working on PCUMS
