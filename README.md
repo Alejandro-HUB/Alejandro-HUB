@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on DBO
 - 💬 Ask me about C++,C#,Python,Java
 - 📫 How to reach me: <a href="https://alejandrolopez.org/">alejandrolopez.org</a>
-- ⚡ Fun fact: I am from Bogota, Colombia :co:
+- ⚡ Fun fact: I am from Bogota, Colombia 
 
 ## GIT Stats
 <img src="https://github-readme-stats.vercel.app/api?username=Alejandro-HUB&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alejandro-HUB&theme=radical"/>|
