@@ -4,14 +4,14 @@
 [![Youtube Badge](https://img.shields.io/badge/-AlexMixVids-red?style=plastic-square&logo=youtube&logoColor=white&link=https://www.youtube.com/user/thecoolAlelopezm)](https://www.youtube.com/user/thecoolAlelopezm)
 <a href="https://portfolium.com/AlejandroLopez97"><img src="https://img.shields.io/badge/MyPortfolio-blueviolet.svg"/></a>
 <a href="https://github.com/Alejandro-HUB/Alejandro-HUB/blob/main/Resume.pdf"><img src="https://img.shields.io/badge/MyResume-red.svg"/></a>
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Alejandro-HUB)
+[![](https://visitcount.itsvg.in/api?id=Alejandro-HUB&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💫About Me :
 * 💻 A creative, problem-solving Software Engineering specialist that is able to resolve whatever technological issue is presented. An individual with dedication and perspective that knows how to communicate to people, providing them with solutions and support.
 * 🔭 I’m currently working on PCUMS
 * 🌱 I’m currently learning MongoDB and LINQ
 * 👯 I’m looking to collaborate on DBO
-* 📫 How to reach me: <a href="alejandrolopez.org">alejandrolopez.org</a>
+* 📫 How to reach me: <a href="https://alejandrolopez.org/">alejandrolopez.org</a>
 * ✨ Fun fact: I am from Bogota, Colombia
 
 # 📊GitHub Stats :
@@ -22,5 +22,5 @@
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
-[![](https://visitcount.itsvg.in/api?id=Alejandro-HUB&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
