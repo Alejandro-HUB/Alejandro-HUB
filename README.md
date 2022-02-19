@@ -1,4 +1,4 @@
-### Welcome, feel free to look around 👋 
+# Welcome, feel free to look around 👋 
 [![Instagram Badge](https://img.shields.io/badge/-col.alejo-orange?style=plastic-square&logo=instagram&logoColor=white&link=https://www.instagram.com/col.alejo/)](https://www.instagram.com/col.alejo/)
 [![Linkedin Badge](https://img.shields.io/badge/-AlejandroLopez-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alejandro-lopez-7a0068154/)](https://www.linkedin.com/in/alejandro-lopez-7a0068154/)
 [![Youtube Badge](https://img.shields.io/badge/-AlexMixVids-red?style=plastic-square&logo=youtube&logoColor=white&link=https://www.youtube.com/user/thecoolAlelopezm)](https://www.youtube.com/user/thecoolAlelopezm)
