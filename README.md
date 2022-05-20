@@ -8,7 +8,7 @@
 
 # 💫About Me :
 * 💻 A creative, problem-solving Software Engineering specialist that is able to resolve whatever technological issue is presented. An individual with dedication and perspective that knows how to communicate to people, providing them with solutions and support.
-* 🔭 I’m currently working on PCUMS
+* 🔭 I’m currently working on Project CRM
 * 🌱 I’m currently learning MongoDB and Dart
 * 👯 I’m looking to collaborate on DBO
 * 📫 How to reach me: <a href="https://alejandrolopez.org/">alejandrolopez.org</a>
