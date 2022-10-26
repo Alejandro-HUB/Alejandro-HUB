@@ -11,7 +11,7 @@
 * 🔭 I’m currently working on Project CRM
 * 🌱 I’m currently learning MongoDB and Dart
 * 👯 I’m looking to collaborate on DBO
-* 📫 How to reach me: <a href="https://alejandrolopez.org/">alejandrolopez.azurewebsites.net</a>
+* 📫 How to reach me: <a href="https://alejandrolopez.azurewebsites.net/">alejandrolopez.azurewebsites.net</a>
 * ✨ Fun fact: I am from Bogota, Colombia
 
 # 📊GitHub Stats :
