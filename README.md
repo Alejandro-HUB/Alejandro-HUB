@@ -8,7 +8,6 @@ My website: https://alejandrolopez.azurewebsites.net/<br><br>
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AlejoBluesy) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/user/thecoolAlelopezm)
 <a href="https://portfolium.com/AlejandroLopez97"><img src="https://img.shields.io/badge/MyPortfolio-blueviolet.svg"/></a>
-<a href="https://github.com/Alejandro-HUB/Alejandro-HUB/blob/main/Resume.pdf"><img src="https://img.shields.io/badge/MyResume-red.svg"/></a>
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Alejandro-HUB)
 
 # 💻 Tech Stack:
