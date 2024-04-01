@@ -3,7 +3,6 @@ Creative Software Engineer with a talent for problem-solving and resolving compl
 
 ## 🌐 Socials:
 My website: https://alejandrolopez.azurewebsites.net/<br><br>
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/col.alejo) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-lopez-7a0068154/) 
 <a href="https://portfolium.com/AlejandroLopez97"><img src="https://img.shields.io/badge/MyPortfolio-blueviolet.svg"/></a>
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Alejandro-HUB)
