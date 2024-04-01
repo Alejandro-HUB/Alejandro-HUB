@@ -5,8 +5,6 @@ Creative Software Engineer with a talent for problem-solving and resolving compl
 My website: https://alejandrolopez.azurewebsites.net/<br><br>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/col.alejo) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-lopez-7a0068154/) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AlejoBluesy) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/user/thecoolAlelopezm)
 <a href="https://portfolium.com/AlejandroLopez97"><img src="https://img.shields.io/badge/MyPortfolio-blueviolet.svg"/></a>
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Alejandro-HUB)
 
