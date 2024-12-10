@@ -2,9 +2,6 @@
 Creative Software Engineer with a talent for problem-solving and resolving complex tech challenges. Committed to effective communication and delivering practical business solutions.
 
 ## 🌐 Socials:
-My website: https://alejandrolopez.azurewebsites.net/<br><br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-lopez-7a0068154/) 
-<a href="https://portfolium.com/AlejandroLopez97"><img src="https://img.shields.io/badge/MyPortfolio-blueviolet.svg"/></a>
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Alejandro-HUB)
 
 # 💻 Tech Stack:
